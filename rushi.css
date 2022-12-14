@@ -1,0 +1,74 @@
+/* Client Section */
+
+#client-section{
+    /* border: 3px solid black; */
+    margin: 2px;
+    position: relative;
+    text-align: center;
+}
+#client-section::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.9;
+    top: 0px;
+    left: 0px;
+    background: url(https://media.istockphoto.com/photos/top-view-of-tomato-salad-arugula-avocado-lemon-in-white-plate-on-pink-picture-id1330176470?b=1&k=20&m=1330176470&s=170667a&w=0&h=TDR95gvP5XpKQgtxTQEjSGilpV_QVLxcc_H_WlO2YhQ=) no-repeat center center/cover;
+} 
+#clients img{
+    margin: 20px;
+    padding: 20px;
+    height: 100px;
+}
+
+/* Contact Section */
+
+#contact-section{
+    position: relative;
+    padding-bottom: 20px;
+    height:400px;
+}
+#contact-section::before{
+    content: "";
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height:100%;
+    /* height:400px; */
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    opacity: 0.9;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjz227WknbW2PDChj7nlXn5Z2EsHlINOMsCg&usqp=CAU) no-repeat center center/cover;
+
+}
+
+#contact{
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contact input {
+    width: 100%;
+}   
+/* .bn{
+    padding: 6px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+    margin: auto;
+    cursor: pointer;
+    font-size: 1.1rem;
+} */
+
+/* Footer Section */
+.center{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
