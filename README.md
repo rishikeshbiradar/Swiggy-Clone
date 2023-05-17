@@ -1,2 +1,2 @@
 # OnlineFoodDelivery
-This is mini Swiggy Clone from frontend development
+This is mini Swiggy Clone Using Frontend Development
