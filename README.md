@@ -17,8 +17,8 @@ This project is a simple and efficient calculator website created with HTML, CSS
 
 This website is hosted on Google Firebase, ensuring fast and reliable access. Firebase hosting provides a secure and scalable platform for your web application.
 
+Website Link : https://rishikeshbiradar.github.io/Swiggy-Clone/
+
 ## Contribution
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open a pull request or submit an issue.
-
-Website Link : https://rishikeshbiradar.github.io/Swiggy-Clone/
