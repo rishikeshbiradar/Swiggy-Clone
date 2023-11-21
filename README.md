@@ -1,9 +1,24 @@
-# OnlineFoodDelivery
+# Calculator Website
 
-This project is a simple and stylish clone of the popular food delivery platform, Swiggy. Crafted with HTML, CSS, and enhanced with Bootstrap, this Swiggy Clone demonstrates the basics of building a responsive and visually appealing food delivery website. Whether you're a front-end enthusiast or looking to understand the fundamentals of web development, this project is a great starting point.
+Welcome to the Calculator Website – your go-to tool for quick calculations! 🧮
 
-Features:
-1)Responsive Design: The website is designed to provide an optimal viewing experience across various devices, ensuring accessibility for users on desktops, tablets, and smartphones.
-2)Bootstrap Components: Leveraging the power of Bootstrap, the clone incorporates responsive navigation bars, cards, and other UI components for a modern and polished look.
+This project is a simple and efficient calculator website created with HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations and a clean user interface for ease of use. Hosted on Google Firebase, it is accessible to users worldwide. Whether you need to perform quick math tasks or just want to explore web development basics, the Calculator Website is at your service.
+
+## Features
+
+- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division – perform essential calculations effortlessly.
+
+- **User-Friendly Interface:** The calculator is designed with simplicity in mind, ensuring a smooth and intuitive user experience.
+
+- **Responsive Design:** The website adapts to various screen sizes, making it accessible on desktops, tablets, and smartphones.
+
+
+## Hosted on Google Firebase
+
+This website is hosted on Google Firebase, ensuring fast and reliable access. Firebase hosting provides a secure and scalable platform for your web application.
+
+## Contribution
+
+Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open a pull request or submit an issue.
 
 Website Link : https://rishikeshbiradar.github.io/Swiggy-Clone/
